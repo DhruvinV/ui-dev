@@ -1,1 +1,2 @@
-### sample
+# Heading 1 #
+
