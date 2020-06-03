@@ -1,5 +1,5 @@
 ## Neurmophism or Soft UI 
 
-![alt text](https://github.com/DhruvinV/ui-dev/blob/master/readme/player.png)
+<img src="https://github.com/DhruvinV/ui-dev/blob/master/readme/player.png" width: "200" height: "200"/>
 
-![alt text](https://github.com/DhruvinV/ui-dev/blob/master/readme/album.png)
+
